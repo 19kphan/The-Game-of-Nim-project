@@ -3,7 +3,6 @@ Designing a C++ program that will implement a version of the classic Nim game, w
 
 This program encompasses various classes designed to manage game logic, player interactions, profile handling, and statistical tracking. The architecture is structured to provide a user-friendly interface, enabling players to engage in the game against either a computer or another player. This report delves into the intricacies of each class, their functionalities, and their interrelationships within the program.
 
-Architecture
 Class Descriptions and Relationships:
 
 NimGame Class
