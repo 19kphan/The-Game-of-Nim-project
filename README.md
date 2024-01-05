@@ -50,3 +50,5 @@ Relationships: Interacts with the game (NimGame) to input and execute human play
 PlayByPlay Class
 Responsibility: Records and manages the play-by-play details of each game.
 Relationships: Nested within NimGame, captures and logs game progress and outcomes.
+![image](https://github.com/19kphan/The-Game-of-Nim-project/assets/155543499/3238ed78-4914-4093-8f2a-b1d3937124dd)
+
