@@ -1,0 +1,5 @@
+Guest1	11	4	1	3
+Guest2	3	2	2	0
+Guy1	2	2	2	0
+Some1	2	0	0	0
+Yesman1	0	0	0	0

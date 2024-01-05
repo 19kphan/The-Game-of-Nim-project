@@ -1,0 +1,604 @@
+------------------------------------------------------------------------------------------
+The Starting Pile is: 497
+Computer removed 47 marbles.
+Pile is now: 450
+Player 1 removed 1 marbles.
+Pile is now: 449
+Computer removed 131 marbles.
+Pile is now: 318
+Player 1 removed 1 marbles.
+Pile is now: 317
+Computer removed 138 marbles.
+Pile is now: 179
+Player 1 removed 1 marbles.
+Pile is now: 178
+Computer removed 84 marbles.
+Pile is now: 94
+Player 1 removed 1 marbles.
+Pile is now: 93
+Computer removed 42 marbles.
+Pile is now: 51
+Player 1 removed 1 marbles.
+Pile is now: 50
+Computer removed 16 marbles.
+Pile is now: 34
+Player 1 removed 1 marbles.
+Pile is now: 33
+Computer removed 16 marbles.
+Pile is now: 17
+Player 1 removed 1 marbles.
+Pile is now: 16
+Computer removed 8 marbles.
+Pile is now: 8
+Player 1 removed 1 marbles.
+Pile is now: 7
+Computer removed 3 marbles.
+Pile is now: 4
+Player 1 removed 1 marbles.
+Pile is now: 3
+Computer removed 1 marbles.
+Pile is now: 2
+Player 1 removed 1 marbles.
+Pile is now: 1
+Computer removed the last marble.
+Player 1 Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 618
+Player 1 removed 300 marbles.
+Pile is now: 318
+Player 2 removed 150 marbles.
+Pile is now: 168
+Player 1 removed 80 marbles.
+Pile is now: 88
+Player 2 removed 40 marbles.
+Pile is now: 48
+Player 1 removed 20 marbles.
+Pile is now: 28
+Player 2 removed 10 marbles.
+Pile is now: 18
+Player 1 removed 9 marbles.
+Pile is now: 9
+Player 2 removed 3 marbles.
+Pile is now: 6
+Player 1 removed 2 marbles.
+Pile is now: 4
+Player 2 removed 1 marbles.
+Pile is now: 3
+Player 1 removed 1 marbles.
+Pile is now: 2
+Player 2 removed 1 marbles.
+Pile is now: 1
+Player 1 has removed the last marble. Remaining Marbles: 0
+Player 2 Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 259
+Player 1 removed 120 marbles.
+Pile is now: 139
+Computer removed 19 marbles.
+Pile is now: 120
+Player 1 removed 60 marbles.
+Pile is now: 60
+Computer removed 10 marbles.
+Pile is now: 50
+Player 1 removed 20 marbles.
+Pile is now: 30
+Computer removed 1 marbles.
+Pile is now: 29
+Player 1 removed 10 marbles.
+Pile is now: 19
+Computer removed 2 marbles.
+Pile is now: 17
+Player 1 removed 4 marbles.
+Pile is now: 13
+Computer removed 2 marbles.
+Pile is now: 11
+Player 1 removed 3 marbles.
+Pile is now: 8
+Computer removed 3 marbles.
+Pile is now: 5
+Player 1 removed 2 marbles.
+Pile is now: 3
+Computer removed 1 marbles.
+Pile is now: 2
+Player 1 removed 1 marbles.
+Pile is now: 1
+Computer removed the last marble.
+Player 1 Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 357
+Player 1 removed 150 marbles.
+Pile is now: 207
+Computer removed 77 marbles.
+Pile is now: 130
+Player 1 removed 20 marbles.
+Pile is now: 110
+Computer removed 23 marbles.
+Pile is now: 87
+Player 1 removed 40 marbles.
+Pile is now: 47
+Computer removed 11 marbles.
+Pile is now: 36
+Player 1 removed 10 marbles.
+Pile is now: 26
+Computer removed 7 marbles.
+Pile is now: 19
+Player 1 removed 3 marbles.
+Pile is now: 16
+Computer removed 6 marbles.
+Pile is now: 10
+Player 1 removed 2 marbles.
+Pile is now: 8
+Computer removed 1 marbles.
+Pile is now: 7
+Player 1 removed 2 marbles.
+Pile is now: 5
+Computer removed 1 marbles.
+Pile is now: 4
+Player 1 removed 1 marbles.
+Pile is now: 3
+Computer removed 1 marbles.
+Pile is now: 2
+Player 1 removed 1 marbles.
+Pile is now: 1
+Computer removed the last marble.
+Player 1 Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 892
+Player 0 removed 90 marbles.
+Pile is now: 802
+Player 1 removed 400 marbles.
+Pile is now: 402
+Player 2 removed 200 marbles.
+Pile is now: 202
+Player 1 removed 50 marbles.
+Pile is now: 152
+Player 2 removed 40 marbles.
+Pile is now: 112
+Player 1 removed 50 marbles.
+Pile is now: 62
+Player 2 removed 30 marbles.
+Pile is now: 32
+Player 1 removed 10 marbles.
+Pile is now: 22
+Player 2 removed 10 marbles.
+Pile is now: 12
+Player 1 removed 4 marbles.
+Pile is now: 8
+Player 2 removed 2 marbles.
+Pile is now: 6
+Player 1 removed 3 marbles.
+Pile is now: 3
+Player 2 removed 1 marbles.
+Pile is now: 2
+Player 1 removed 1 marbles.
+Pile is now: 1
+Player 2 has removed the last marble. Remaining Marbles: 0
+Player 1 Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 283
+Player 0 removed 100 marbles.
+Pile is now: 183
+Player 1 removed 90 marbles.
+Pile is now: 93
+Player 2 removed 20 marbles.
+Pile is now: 73
+Player 1 removed 30 marbles.
+Pile is now: 43
+Player 2 removed 20 marbles.
+Pile is now: 23
+Player 1 removed 10 marbles.
+Pile is now: 13
+Player 2 removed 4 marbles.
+Pile is now: 9
+Player 1 removed 3 marbles.
+Pile is now: 6
+Player 2 removed 2 marbles.
+Pile is now: 4
+Player 1 removed 2 marbles.
+Pile is now: 2
+Player 2 removed 1 marbles.
+Pile is now: 1
+Player 1 has removed the last marble. Remaining Marbles: 0
+Player 2 Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 737
+Computer removed 226 marbles.
+Pile is now: 511
+Player 1 removed 150 marbles.
+Pile is now: 361
+Computer removed 106 marbles.
+Pile is now: 255
+Player 1 removed 80 marbles.
+Pile is now: 175
+Computer removed 50 marbles.
+Pile is now: 125
+Player 1 removed 40 marbles.
+Pile is now: 85
+Computer removed 22 marbles.
+Pile is now: 63
+Player 1 removed 30 marbles.
+Pile is now: 33
+Computer removed 2 marbles.
+Pile is now: 31
+Player 1 removed 10 marbles.
+Pile is now: 21
+Computer removed 6 marbles.
+Pile is now: 15
+Player 1 removed 4 marbles.
+Pile is now: 11
+Computer removed 4 marbles.
+Pile is now: 7
+Player 1 removed 3 marbles.
+Pile is now: 4
+Computer removed 1 marbles.
+Pile is now: 3
+Player 1 removed 1 marbles.
+Pile is now: 2
+Computer removed 1 marbles.
+Pile is now: 1
+Player 1 removed the last marble.
+The Computer Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 247
+Player 0 removed 50 marbles.
+Pile is now: 197
+Player 1 removed 45 marbles.
+Pile is now: 152
+Player 2 removed 40 marbles.
+Pile is now: 112
+Player 1 removed 20 marbles.
+Pile is now: 92
+Player 2 removed 10 marbles.
+Pile is now: 82
+Player 1 removed 40 marbles.
+Pile is now: 42
+Player 2 removed 20 marbles.
+Pile is now: 22
+Player 1 removed 1 marbles.
+Pile is now: 21
+Player 2 removed 10 marbles.
+Pile is now: 11
+Player 1 removed 5 marbles.
+Pile is now: 6
+Player 2 removed 2 marbles.
+Pile is now: 4
+Player 1 removed 2 marbles.
+Pile is now: 2
+Player 2 removed 1 marbles.
+Pile is now: 1
+Player 1 has removed the last marble. Remaining Marbles: 0
+Player 2 Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 317
+Player 1 removed 50 marbles.
+Pile is now: 267
+Player 2 removed 90 marbles.
+Pile is now: 177
+Player 1 removed 40 marbles.
+Pile is now: 137
+Player 2 removed 23 marbles.
+Pile is now: 114
+Player 1 removed 40 marbles.
+Pile is now: 74
+Player 2 removed 32 marbles.
+Pile is now: 42
+Player 1 removed 4 marbles.
+Pile is now: 38
+Player 2 removed 10 marbles.
+Pile is now: 28
+Player 1 removed 9 marbles.
+Pile is now: 19
+Player 2 removed 4 marbles.
+Pile is now: 15
+Player 1 removed 3 marbles.
+Pile is now: 12
+Player 2 removed 2 marbles.
+Pile is now: 10
+Player 1 removed 4 marbles.
+Pile is now: 6
+Player 2 removed 2 marbles.
+Pile is now: 4
+Player 1 removed 1 marbles.
+Pile is now: 3
+Player 2 removed 1 marbles.
+Pile is now: 2
+Player 1 removed 1 marbles.
+Pile is now: 1
+Player 2 has removed the last marble. Remaining Marbles: 0
+Player 1 Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 720
+Player 1 removed 300 marbles.
+Pile is now: 420
+Computer removed 165 marbles.
+Pile is now: 255
+Player 1 removed 100 marbles.
+Pile is now: 155
+Computer removed 30 marbles.
+Pile is now: 125
+Player 1 removed 40 marbles.
+Pile is now: 85
+Computer removed 22 marbles.
+Pile is now: 63
+Player 1 removed 20 marbles.
+Pile is now: 43
+Computer removed 12 marbles.
+Pile is now: 31
+Player 1 removed 10 marbles.
+Pile is now: 21
+Computer removed 6 marbles.
+Pile is now: 15
+Player 1 removed 4 marbles.
+Pile is now: 11
+Computer removed 4 marbles.
+Pile is now: 7
+Player 1 removed 3 marbles.
+Pile is now: 4
+Computer removed 1 marbles.
+Pile is now: 3
+Player 1 removed 1 marbles.
+Pile is now: 2
+Computer removed 1 marbles.
+Pile is now: 1
+Player 1 removed the last marble.
+The Computer Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 844
+Player 1 removed 400 marbles.
+Pile is now: 444
+Computer removed 189 marbles.
+Pile is now: 255
+Player 1 removed 90 marbles.
+Pile is now: 165
+Computer removed 40 marbles.
+Pile is now: 125
+Player 1 removed 40 marbles.
+Pile is now: 85
+Computer removed 22 marbles.
+Pile is now: 63
+Player 1 removed 20 marbles.
+Pile is now: 43
+Computer removed 12 marbles.
+Pile is now: 31
+Player 1 removed 10 marbles.
+Pile is now: 21
+Computer removed 6 marbles.
+Pile is now: 15
+Player 1 removed 3 marbles.
+Pile is now: 12
+Computer removed 5 marbles.
+Pile is now: 7
+Player 1 removed 2 marbles.
+Pile is now: 5
+Computer removed 2 marbles.
+Pile is now: 3
+Player 1 removed 1 marbles.
+Pile is now: 2
+Computer removed 1 marbles.
+Pile is now: 1
+Player 1 removed the last marble.
+The Computer Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 916
+Player 1 removed 400 marbles.
+Pile is now: 516
+Computer removed 5 marbles.
+Pile is now: 511
+Player 1 removed 40 marbles.
+Pile is now: 471
+Computer removed 216 marbles.
+Pile is now: 255
+Player 1 removed 90 marbles.
+Pile is now: 165
+Computer removed 40 marbles.
+Pile is now: 125
+Player 1 removed 50 marbles.
+Pile is now: 75
+Computer removed 12 marbles.
+Pile is now: 63
+Player 1 removed 20 marbles.
+Pile is now: 43
+Computer removed 12 marbles.
+Pile is now: 31
+Player 1 removed 10 marbles.
+Pile is now: 21
+Computer removed 6 marbles.
+Pile is now: 15
+Player 1 removed 4 marbles.
+Pile is now: 11
+Computer removed 4 marbles.
+Pile is now: 7
+Player 1 removed 3 marbles.
+Pile is now: 4
+Computer removed 1 marbles.
+Pile is now: 3
+Player 1 removed 1 marbles.
+Pile is now: 2
+Computer removed 1 marbles.
+Pile is now: 1
+Player 1 removed the last marble.
+The Computer Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 988
+Player 1 removed 100 marbles.
+Pile is now: 888
+Computer removed 377 marbles.
+Pile is now: 511
+Player 1 removed 200 marbles.
+Pile is now: 311
+Computer removed 56 marbles.
+Pile is now: 255
+Player 1 removed 40 marbles.
+Pile is now: 215
+Computer removed 90 marbles.
+Pile is now: 125
+Player 1 removed 40 marbles.
+Pile is now: 85
+Computer removed 22 marbles.
+Pile is now: 63
+Player 1 removed 20 marbles.
+Pile is now: 43
+Computer removed 12 marbles.
+Pile is now: 31
+Player 1 removed 10 marbles.
+Pile is now: 21
+Computer removed 6 marbles.
+Pile is now: 15
+Player 1 removed 4 marbles.
+Pile is now: 11
+Computer removed 4 marbles.
+Pile is now: 7
+Player 1 removed 3 marbles.
+Pile is now: 4
+Computer removed 1 marbles.
+Pile is now: 3
+Player 1 removed 1 marbles.
+Pile is now: 2
+Computer removed 1 marbles.
+Pile is now: 1
+Player 1 removed the last marble.
+The Computer Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 208
+Computer removed 1 marbles.
+Pile is now: 207
+Player 1 removed 40 marbles.
+Pile is now: 167
+Computer removed 49 marbles.
+Pile is now: 118
+Player 1 removed 20 marbles.
+Pile is now: 98
+Computer removed 22 marbles.
+Pile is now: 76
+Player 1 removed 20 marbles.
+Pile is now: 56
+Computer removed 26 marbles.
+Pile is now: 30
+Player 1 removed 10 marbles.
+Pile is now: 20
+Computer removed 5 marbles.
+Pile is now: 15
+Player 1 removed 5 marbles.
+Pile is now: 10
+Computer removed 3 marbles.
+Pile is now: 7
+Player 1 removed 3 marbles.
+Pile is now: 4
+Computer removed 1 marbles.
+Pile is now: 3
+Player 1 removed 1 marbles.
+Pile is now: 2
+Computer removed 1 marbles.
+Pile is now: 1
+Player 1 removed the last marble.
+The Computer Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 260
+Computer removed 1 marbles.
+Pile is now: 259
+Player 1 removed 40 marbles.
+Pile is now: 219
+Computer removed 49 marbles.
+Pile is now: 170
+Player 1 removed 50 marbles.
+Pile is now: 120
+Computer removed 31 marbles.
+Pile is now: 89
+Player 1 removed 20 marbles.
+Pile is now: 69
+Computer removed 2 marbles.
+Pile is now: 67
+Player 1 removed 4 marbles.
+Pile is now: 63
+Computer removed 29 marbles.
+Pile is now: 34
+Player 1 removed 10 marbles.
+Pile is now: 24
+Computer removed 4 marbles.
+Pile is now: 20
+Player 1 removed 4 marbles.
+Pile is now: 16
+Computer removed 4 marbles.
+Pile is now: 12
+Player 1 removed 3 marbles.
+Pile is now: 9
+Computer removed 4 marbles.
+Pile is now: 5
+Player 1 removed 2 marbles.
+Pile is now: 3
+Computer removed 1 marbles.
+Pile is now: 2
+Player 1 removed 1 marbles.
+Pile is now: 1
+Computer removed the last marble.
+Player 1 Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 348
+Player 0 removed 40 marbles.
+Pile is now: 308
+Player 1 removed 100 marbles.
+Pile is now: 208
+Player 2 removed 100 marbles.
+Pile is now: 108
+Player 1 removed 40 marbles.
+Pile is now: 68
+Player 2 removed 20 marbles.
+Pile is now: 48
+Player 1 removed 21 marbles.
+Pile is now: 27
+Player 2 removed 9 marbles.
+Pile is now: 18
+Player 1 removed 4 marbles.
+Pile is now: 14
+Player 2 removed 3 marbles.
+Pile is now: 11
+Player 1 removed 2 marbles.
+Pile is now: 9
+Player 2 removed 1 marbles.
+Pile is now: 8
+Player 1 removed 4 marbles.
+Pile is now: 4
+Player 2 removed 2 marbles.
+Pile is now: 2
+Player 1 removed 1 marbles.
+Pile is now: 1
+Player 2 has removed the last marble. Remaining Marbles: 0
+Player 1 Wins!!!
+------------------------------------------------------------------------------------------
+The Starting Pile is: 537
+Player 1 removed 200 marbles.
+Pile is now: 337
+Player 2 removed 100 marbles.
+Pile is now: 237
+Player 1 removed 50 marbles.
+Pile is now: 187
+Player 2 removed 40 marbles.
+Pile is now: 147
+Player 1 removed 20 marbles.
+Pile is now: 127
+Player 2 removed 50 marbles.
+Pile is now: 77
+Player 1 removed 20 marbles.
+Pile is now: 57
+Player 2 removed 10 marbles.
+Pile is now: 47
+Player 1 removed 4 marbles.
+Pile is now: 43
+Player 2 removed 20 marbles.
+Pile is now: 23
+Player 1 removed 10 marbles.
+Pile is now: 13
+Player 2 removed 4 marbles.
+Pile is now: 9
+Player 1 removed 3 marbles.
+Pile is now: 6
+Player 2 removed 2 marbles.
+Pile is now: 4
+Player 1 removed 1 marbles.
+Pile is now: 3
+Player 2 removed 1 marbles.
+Pile is now: 2
+Player 1 removed 1 marbles.
+Pile is now: 1
+Player 2 has removed the last marble. Remaining Marbles: 0
+Player 1 Wins!!!
